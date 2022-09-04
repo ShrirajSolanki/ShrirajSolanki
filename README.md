@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrirajSolanki
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in Flutter Devlopmenmt
+- 🌱 I’m currently learning Flutter Devlopment
 - 
 - 📫 How to reach me 9179027632
 
